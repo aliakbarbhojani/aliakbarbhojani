@@ -1,16 +1,10 @@
-## Building in public
-
 <div align="center">
 
-# ALIAKBAR BHOJANI
-
-> COMPUTER SCIENCE STUDENT AT TMU | ASPIRING AI ENGINEER
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b21b6,100:a855f7&height=200&section=header&text=ALIAKBAR%20BHOJANI&fontSize=38&fontColor=e9d5ff&fontAlignY=45&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Aspiring%20AI%20Engineer&descAlignY=65&descSize=16&descColor=c4b5fd" alt="aliakbarbhojani hero visual" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:2d1b4e,50:5b21b6,75:7c3aed,100:a855f7&height=220&section=header&text=ALIAKBAR%20BHOJANI&fontSize=42&fontColor=e9d5ff&fontAlignY=38&animation=fadeIn&desc=COMPUTER%20SCIENCE%20STUDENT%20AT%20TMU%20%7C%20ASPIRING%20AI%20ENGINEER&descAlignY=58&descSize=16&descColor=c4b5fd" alt="aliakbarbhojani hero visual" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
 ## The point of view
 
@@ -21,13 +15,17 @@
 
 **Currently:** `Simple AI Chatbot` · `Smart Banking Management System` · `Python File Organizer`
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
+
 ## What I'm shipping
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:7c3aed&height=90&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=20&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani highlights visual" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=18&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani highlights visual" width="100%"/>
 </p>
 
 <p><b>ALIAKBAR BHOJANI</b> is shipping 4 public projects with 1 stars of proof.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
 ## Products and proof
 
@@ -36,19 +34,28 @@
 <tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/smart-banking">smart-banking</a></b></td><td>🏦 A command-line banking system built with Python using Object-Oriented Programming principles.<br/><sub>Python · 0 stars</sub></td></tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
+
 ## Momentum
 
 <table>
 <tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>18</b><br/><sub>contributions</sub></td></tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
+
 ## Start a conversation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:1a0b2e&height=90&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani social visual" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c3aed,50:5b21b6,100:1a0b2e&height=100&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani social visual" width="100%"/>
 </p>
 
-<a href="https://github.com/aliakbarbhojani">GitHub</a> · <a href="https://linkedin.com/in/aliakbar-">LinkedIn</a>
+<p align="center">
+  <a href="https://github.com/aliakbarbhojani"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
+  <a href="https://linkedin.com/in/aliakbar-"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
 ## Experience
 
@@ -59,3 +66,5 @@
 <b>Education</b>
 
 - Bachelor of Science, Computer Science — Toronto Metropolitan University (Expected 2030)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:5b21b6,100:0d0221&height=120&section=footer" width="100%"/>
