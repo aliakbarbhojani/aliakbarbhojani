@@ -22,10 +22,10 @@
 ## What I'm Creating
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=18&fontColor=e9d5ff&fontAlignY=55&animation=twinkling" alt="aliakbarbhojani highlights visual" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=TURNING%20IDEAS%20INTO%20WORKING%20CODE&fontSize=20&fontColor=e9d5ff&fontAlignY=55&animation=twinkling" alt="aliakbarbhojani highlights visual" width="100%"/>
 </p>
 
-<p><b>ALIAKBAR BHOJANI</b> is shipping 4 public projects with 1 stars of proof.</p>
+<p align="center">Actively building AI and Python projects — from conversational agents to full applications — while sharpening skills for a career in AI engineering.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/aliakbarbhojani"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
-  <a href="www.linkedin.com/in/aliakbar-bhojani"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
+  <a href="https://www.linkedin.com/in/aliakbar-bhojani"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
