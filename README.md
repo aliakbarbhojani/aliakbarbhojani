@@ -13,7 +13,7 @@
 > Computer Science student fascinated by how AI can turn complex problems into practical solutions. Led an AI-driven autonomous drone delivery startup in Qatar, combining technology, entrepreneurship, and cross-functional teamwork. Developing Python and problem-solving skills through software projects and AI-focused learning.
 
 - 📍 Based in **Toronto, ON, Canada**
-- 👥 **18** followers · **8** following
+- 👥 <img src="https://img.shields.io/github/followers/aliakbarbhojani?label=followers&style=flat-square&labelColor=1a0b2e&color=a855f7" valign="middle"/>
 
 **Currently:** `Simple AI Chatbot` · `Smart Banking Management System` · `Python File Organizer`
 
@@ -40,9 +40,9 @@
 
 ## Momentum
 
-<table>
-<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>18</b><br/><sub>contributions</sub></td></tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarbhojani&show_icons=true&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=a855f7&text_color=e9d5ff&ring_color=7c3aed" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aliakbarbhojani/aliakbarbhojani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
