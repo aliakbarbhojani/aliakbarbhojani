@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:2d1b4e,50:5b21b6,75:7c3aed,100:a855f7&height=220&section=header&text=ALIAKBAR%20BHOJANI&fontSize=42&fontColor=e9d5ff&fontAlignY=38&animation=fadeIn&desc=COMPUTER%20SCIENCE%20STUDENT%20AT%20TMU%20%7C%20ASPIRING%20AI%20ENGINEER&descAlignY=58&descSize=16&descColor=c4b5fd" alt="aliakbarbhojani hero visual" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:2d1b4e,50:5b21b6,75:7c3aed,100:a855f7&height=220&section=header&text=ALIAKBAR%20BHOJANI&fontSize=42&fontColor=e9d5ff&fontAlignY=32&animation=twinkling" alt="aliakbarbhojani hero visual" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=A855F7&background=0D022100&center=true&vCenter=true&width=560&lines=COMPUTER+SCIENCE+STUDENT+AT+TMU;ASPIRING+AI+ENGINEER;BUILDING+WITH+PYTHON+%26+AI" alt="typing animation" />
 
 </div>
 
@@ -20,7 +22,7 @@
 ## What I'm shipping
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=18&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani highlights visual" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=18&fontColor=e9d5ff&fontAlignY=55&animation=twinkling" alt="aliakbarbhojani highlights visual" width="100%"/>
 </p>
 
 <p><b>ALIAKBAR BHOJANI</b> is shipping 4 public projects with 1 stars of proof.</p>
@@ -42,12 +44,20 @@
 <tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>18</b><br/><sub>contributions</sub></td></tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliakbarbhojani&bg_color=0d0221&color=e9d5ff&line=a855f7&point=ffffff&area=true&area_color=5b21b6&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliakbarbhojani/aliakbarbhojani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
 ## Start a conversation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c3aed,50:5b21b6,100:1a0b2e&height=100&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55" alt="aliakbarbhojani social visual" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c3aed,50:5b21b6,100:1a0b2e&height=100&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=e9d5ff&fontAlignY=55&animation=twinkling" alt="aliakbarbhojani social visual" width="100%"/>
 </p>
 
 <p align="center">
@@ -68,3 +78,5 @@
 - Bachelor of Science, Computer Science — Toronto Metropolitan University (Expected 2030)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:5b21b6,100:0d0221&height=120&section=footer" width="100%"/>
+
+</div>
