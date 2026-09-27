@@ -29,11 +29,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
-## Products and proof
+## Top Projects
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/simple-chatbot">simple-chatbot</a></b></td><td>A conversational AI chatbot built with Python, Streamlit, and Ollama featuring persistent conversation memory.<br/><sub>Python · 1 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/smart-banking">smart-banking</a></b></td><td>🏦 A command-line banking system built with Python using Object-Oriented Programming principles.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/hangman_project">hangman_project</a></b></td><td>🎮 A Python-based Hangman game built with OOP, input validation, scoring, win streaks, and an external word database.<br/><sub>Python · 0 stars</sub></td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
