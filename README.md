@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/aliakbarbhojani"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=a855f7" /></a>
-  <a href="https://linkedin.com/in/aliakbar-"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
+  <a href="www.linkedin.com/in/aliakbar-bhojani"><img src="https://img.shields.io/badge/LinkedIn-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
