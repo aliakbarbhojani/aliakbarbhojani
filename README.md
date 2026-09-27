@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
-## The point of view
+## About Me
 
 > Computer Science student fascinated by how AI can turn complex problems into practical solutions. Led an AI-driven autonomous drone delivery startup in Qatar, combining technology, entrepreneurship, and cross-functional teamwork. Developing Python and problem-solving skills through software projects and AI-focused learning.
 
@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
-## What I'm shipping
+## What I'm Creating
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=100&section=header&text=SHIPPING%204%20PUBLIC%20PROJECTS%20%C2%B7%201%20STAR%20OF%20PROOF&fontSize=18&fontColor=e9d5ff&fontAlignY=55&animation=twinkling" alt="aliakbarbhojani highlights visual" width="100%"/>
@@ -45,10 +45,6 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliakbarbhojani&bg_color=0d0221&color=e9d5ff&line=a855f7&point=ffffff&area=true&area_color=5b21b6&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/aliakbarbhojani/aliakbarbhojani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
@@ -67,13 +63,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
 
-## Experience
-
-<table>
-<tr><td width="34%" valign="top"><b>FLYT — Chief Executive Officer</b><br /><sub>Jan 2025 – May 2025</sub></td><td width="66%" valign="top"><ul><li>Led a student-led autonomous drone delivery startup incorporating AI and emerging technologies, coordinating multiple departments to develop and present the company's technology-driven business concept.</li><li>Collaborated across departments to align objectives, coordinate responsibilities, and ensure smooth project operations.</li><li>Took a leading role in developing FLYT's marketing strategy and communicating the value of its AI-enabled autonomous delivery concept to judges and stakeholders.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Q-Auto Qatar — AI &amp; Technology Work Experience</b><br /><sub>Jun 2024</sub></td><td width="66%" valign="top"><ul><li>Gained exposure to artificial intelligence and emerging automotive technologies through exploration of Audi and Volkswagen operations.</li><li>Visited Q-Auto's Audi/Volkswagen facility, factory, and service operations to explore how technology is integrated across modern vehicles and business operations.</li><li>Met with professionals across multiple departments to understand how technical, operational, and business teams collaborate within a large automotive organization.</li></ul></td></tr>
-</table>
-
-<b>Education</b>
+## Education
 
 - Bachelor of Science, Computer Science — Toronto Metropolitan University (Expected 2030)
 
