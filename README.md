@@ -34,7 +34,7 @@
 <table>
 <tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/simple-chatbot">simple-chatbot</a></b></td><td>A conversational AI chatbot built with Python, Streamlit, and Ollama featuring persistent conversation memory.<br/><sub>Python · 1 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/tmu-cps-project">cps-study-guide</a></b></td><td>A web-based CPS 213 study guide built with Python (CPS 109), FastAPI, HTML, CSS, and JavaScript, featuring 40 topics, worked examples, and visual explanations.<br/><sub>Python · 1 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/hangman_project">hangman_project</a></b></td><td>🎮 A Python-based Hangman game built with OOP, input validation, scoring, win streaks, and an external word database.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/aliakbarbhojani/tmu-cs-discord-bot">tmu-cs-discord-bot</a></b></td><td>A discord bot built for the TMU CS 30/31 discord server that displays information and key dates for CS students!<br/><sub>Python · 0 stars</sub></td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:5b21b6&height=3&section=header" width="100%"/>
